@@ -4,9 +4,9 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
 
 - :orange_book: Focusing on ROS
-- :hammer: Creator of algorithm of driverless
-- :meat_on_bone: Meat lover
-- :blue_book: Control
+- :hammer: Autonomous Driving
+- :meat_on_bone:AI C++ C Python
+- :blue_book: Control and Perception
 
 <a href="https://github.com/Feng1909/Feng1909">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1909&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width = 350/>
